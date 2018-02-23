@@ -1,4 +1,4 @@
-Human isoniazid fast and slow acetylator PBPK models:
+Human isoniazid (INH) fast and slow acetylator PBPK models:
 
 The human PBPK models of fast and slow isoniazid acetylators were built with the PBPK modeling software PK-Sim® (Version 7.1.0; Bayer AG, 2017). Model parameter identification was performed in MATLAB and MoBi®. The latest versions of PK-Sim® and MoBi® are freely available under the GPLv2 License (https://github.com/Open-Systems-Pharmacology). 
 
